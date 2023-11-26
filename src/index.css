@@ -14,3 +14,37 @@ body {
   min-width: 320px;
   min-height: 100vh;
 }
+
+.button {
+  padding: 0.5rem;
+  background: aqua;
+  border: 1px solid aqua;
+  font-size: 1rem;
+  display: inline-flex;
+  gap: 0.5rem;
+  align-items: center;
+  border-radius: 5px;
+  cursor: pointer;
+
+  &:hover {
+    background: aqua;
+  }
+
+  &.secondary {
+    background: pink;
+    border: 1px solid pink;
+
+    &:hover {
+      background: pink;
+    }
+  }
+
+  &.dark {
+    background: darkgray;
+    border: 1px solid gray;
+
+    &:hover {
+      background: rgba(grey, 0.9);
+    }
+  }
+}
