@@ -1,6 +1,6 @@
 ## What is this?
 
-This repo contains code snippets, try-outs, notes, sketches I made while reading and studing **Advanced React** by **Nadia Makarevich**.
+This repo contains parts of code snippets from https://advanced-react.com/examples, try-outs, notes, sketches I made while reading and studying **Advanced React** by **Nadia Makarevich**.
 
 I highly recommend this book!
 
